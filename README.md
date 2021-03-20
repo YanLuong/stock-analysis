@@ -1,6 +1,6 @@
 # stock-analysis
 
-*This analysis report will discuss whether refactoring the existing code has made it more efficient and viable so that it can accomodate larger data sets in the future.*
+*This analysis report will discuss whether refactoring the existing stock analysis code has made it more efficient and viable so that it can accommodate larger data sets in the future.*
 
 ----
 
