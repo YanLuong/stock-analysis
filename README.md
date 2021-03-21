@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis - VBA Challenge
 
 *This analysis report will discuss whether refactoring the existing stock analysis code has made it more efficient and viable so that it can accommodate larger data sets in the future.*
 
