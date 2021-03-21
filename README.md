@@ -56,19 +56,25 @@ When comparing the images below, we can see that in 2017 stocks performed consid
 
 ### Screenshots
 
-
+Execution time of the original script for 2017 (image 1)
 
 ![Original script 2017](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Original%20Run%20Time%202017.png)
 
-___
+***
+
+Execution time of the original script for 2018 (image 2)
 
 ![Original script 2018](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Original%20Run%20Time%202018.png)
 
-___
+***
+
+Execution time of the refactored script for 2017 (image 3)
 
 ![Refactored script 2017](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Refactored%20Run%20Time%202017.png)
 
-___
+***
+
+Execution time of the refactored script for 2018 (image 4)
 
 ![Refactored script 2018](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Refactored%20Run%20Time%202018.png)
 
