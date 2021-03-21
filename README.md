@@ -36,7 +36,11 @@ When comparing the images below, we can see that in 2017 stocks performed consid
 
 
 
+#### Results of original script vs refactored
 
+* *Please refer to the end of the report for the actual screenshots that correspond to the execution times seen in the results table below.*
+
+Looking at the performance results in the table below, we can see that after refactoring the code that there was an improvement in the overall execution times. Roughly a full second was shaved off the execution time for both years.
 
 | Year        | Original Time (Secs) |  Refactored Time (Secs) |
 |:----     | :----:    |  :----:  |       
