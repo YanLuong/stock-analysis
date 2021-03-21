@@ -85,7 +85,7 @@ Execution time of the refactored script for 2017 (image 3)
 
 Execution time of the refactored script for 2018 (image 4)
 
-![Refactored script 2018](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Refactored%20Run%20Time%202018.png)
+![Refactored script 2018](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/VBA_Challenge_2018.png)
 
 
 
