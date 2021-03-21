@@ -53,8 +53,11 @@ Looking at the performance results in the table below, we can see that after ref
 
 ### Summary
 
+Overall, there are advantages of refactoring. In this case, the number of loops we ran were reduced. In the original script, there were nested **for** loops where it ran within a loop. After refactoring, there were less iterations and for loops.
 
-
+Original                       | Refactored
+:-------------------------:|:-------------------------:
+![original code](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Screen%20Shot%202021-03-21%20at%201.02.52%20am.png)  |  ![refactored code](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Screen%20Shot%202021-03-21%20at%201.03.04%20am.png)
 
 
 
