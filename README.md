@@ -53,7 +53,7 @@ Looking at the performance results in the table below, we can see that after ref
 
 ### Summary
 
-Overall, there are advantages of refactoring. In this case, the number of loops we ran were reduced. In the original script, there were nested **for** loops where it ran within a loop. After refactoring, there were less iterations and for loops.
+Overall, there are advantages of refactoring. In this case, the number of loops we ran were reduced. In the original script, there were nested **for** loops where it ran within a loop. After refactoring, there were less iterations and for loops. In the original code (left screenshot image below), we can see that there is a nested **for j** loop within the **for i**. That meant that once the first **for i** loop is run, it would then move on to the **for j** loop. Once the **j loop** had finished iterating, it would go back to the **for i** loop and then repeat the **for j** loop. This loop would finally finish when the **for i** iterates to 11. By then the **for j** would have run 12 times within the **for i** loop. There was alot of unnecessary repetition. In the refactored script (right image below), the equivalent loop is not nested thus it will run once and as it iterates through the rows, the values are placed in the arrays by tickerIndex.
 
 Original                       | Refactored
 :-------------------------:|:-------------------------:
