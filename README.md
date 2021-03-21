@@ -26,6 +26,18 @@ The results section will first compare the results of the stock performance betw
 
 #### Stock Performance analysis in 2017 vs 2018
 
+
+
+
+-----
+
+### Screenshots
+
+
+
+
+
+
 When comparing the images below, we can see that in 2017 stocks performed considerable better than in 2018. With the exception of TERP, all the rest of the stocks had a positive return. DQ and SEDG stocks performed exceptionally well with a 199.4% and 184.5% return. In 2018, nearly all stocks had a negative return except ENPH and RUN. They were the only stocks to have positive returns in both 2017 and 2018.
 
 2017                       |  2018
