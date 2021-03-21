@@ -25,8 +25,7 @@ Prior to refactoring the code, a timer was set up to measure the speed of the co
 
 
 | Year        | Original Time (Secs) |  Refactored Time (Secs) |
-| ----------- | ----------- |-------------| 
-|:----:       |:----:       |:----:       |
+|:----     | :----:    |  :----:  |       
 | 2017        |     1.2734  |     0.1914  |       
 | 2018        | 1.5627      | 0.2148      |               
 
