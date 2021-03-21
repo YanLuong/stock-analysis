@@ -21,6 +21,18 @@ Prior to refactoring the code, a timer was set up to measure the speed of the co
 ------
 ### Results
 
+The results section will first compare the results of the stock performance between 2017 and 2018 and then compared the execution times between the original script vs the refactored the script.
+
+
+#### Stock Performance analysis in 2017 vs 2018
+
+When comparing the images below, we can see that in 2017 stocks performed considerable better than in 2018.
+
+2017                       |  2018
+:-------------------------:|:-------------------------:
+![Stock analysis results for 2017](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Stock%20Analysis%202017%20%20image.png)  |  ![stock analysis results 2018](https://github.com/YanLuong/stock-analysis/blob/main/vba_Challenge/Resources/Stock%20Analysis%202018%20image.png)
+
+
 
 
 
